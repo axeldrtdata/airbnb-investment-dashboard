@@ -2,7 +2,7 @@
 
 A three-page Tableau dashboard that takes an investor from the global market down to a single neighbourhood, built on 478,000 cleaned listings across 16 countries.
 
-**Full case study:** [axeldrtdata.github.io/works/airbnb-investment-dashboard](https://axeldrtdata.github.io/works/airbnb-investment-dashboard/)
+**Live dashboard:** [Tableau Public](https://public.tableau.com/app/profile/axel.derobert/viz/AirbnbInvestmentDashboard/World) · **Full case study:** [axeldrtdata.github.io/works/airbnb-investment-dashboard](https://axeldrtdata.github.io/works/airbnb-investment-dashboard/)
 
 ## Context
 
